@@ -1,4 +1,4 @@
-/*Write a function which partitions a list of items based on a given predicate.
+/** Write a function which partitions a list of items based on a given predicate.
 
 After the partition function is run, the list should be of the form [ F, F, F,
 T, T, T ] where the Fs (resp. Ts) are items for which the predicate function
@@ -17,4 +17,31 @@ i = partitionOn isEven, items
 # items should now be [1, 3, 5, 2, 4, 6]
 # i     should now be 3 */
 
+#include <cstdio>
+#include <cstdlib>
+#include <iostream>
 
+using namespace std;
+
+int main(int nArgs, char* pszArgs[]){
+
+
+	int[] entree = [1,2,3,4,5,6]
+	
+
+}
+int partedIndex(criteria,partitionList){
+
+}
+
+//retorna uma 
+int[] partition(criteria,partitionable){
+
+
+}
+
+//criteria deve ser aplicado sempre a um valor 'n'
+bool applyCriteria(criteria, value){
+
+
+}
