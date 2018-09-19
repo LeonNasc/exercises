@@ -5,3 +5,9 @@ For the beginner, try to use the reduce method - it comes in very handy quite a 
 
 Array will not be empty.*/
 
+reducer = (a,b) => a*b;
+
+array = [3,2,1]
+
+console.log(array.reduce(reducer))
+
